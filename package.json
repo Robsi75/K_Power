@@ -1,0 +1,26 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "main": "discord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/builders": "^1.10.1",
+    "@discordjs/voice": "^0.18.0",
+    "@vitalets/google-translate-api": "^9.2.1",
+    "axios": "^1.7.9",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "google-translate": "^3.0.0",
+    "microsoft-translate": "^0.0.8",
+    "node-cron": "^3.0.3",
+    "node-schedule": "^2.1.1",
+    "translatte": "^3.0.1",
+    "ytdl-core": "^4.11.5"
+  }
+}

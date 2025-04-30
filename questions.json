@@ -1,0 +1,1007 @@
+[{
+    "id": "!qotdtest",
+    "question": "Which player is not a deputy?",
+    "options": ["Chico90", "Albator732", "Rekkamies", "Kenley"]
+},
+
+    {
+    "id": "!qotdEN1",
+    "question": "What is the maximum level of a city in era 3?",
+    "options": ["18", "20", "22", "24"]
+},
+{
+    "id": "!qotdFR1",
+    "question": "Quel est le niveau maximum d'une ville dans l'ère 3 ?",
+    "options": ["18", "20", "22", "24"]
+},
+{
+    "id": "!qotdSP1",
+    "question": "¿Cuál es el nivel máximo de una ciudad en la era 3?",
+    "options": ["18", "20", "22", "24"]
+},
+{
+    "id": "!qotdPT1",
+    "question": "Qual é o nível máximo de uma cidade na era 3?",
+    "options": ["18", "20", "22", "24"]
+},
+{
+    "id": "!qotdPL1",
+    "question": "Jaki jest maksymalny poziom miasta w erze 3?",
+    "options": ["18", "20", "22", "24"]
+},
+{
+    "id": "!qotdRU1",
+    "question": "Какой максимальный уровень города в эре 3?",
+    "options": ["18", "20", "22", "24"]
+},
+{
+    "id": "!qotdDE1",
+    "question": "Was ist das maximale Level einer Stadt in Ära 3?",
+    "options": ["18", "20", "22", "24"]
+},
+{
+    "id": "!qotdFI1",
+    "question": "Mikä on kaupungin suurin taso aikakaudessa 3?",
+    "options": ["18", "20", "22", "24"]
+},
+{
+    "id": "!qotdEN2",
+    "question": "What is the maximum number of wagons for the career locomotive in era 2?",
+    "options": ["11", "15", "19", "21"]
+},
+{
+    "id": "!qotdFR2",
+    "question": "Quel est le nombre maximum de wagons pour la locomotive de carrière à l'ère 2 ?",
+    "options": ["11", "15", "19", "21"]
+},
+{
+    "id": "!qotdSP2",
+    "question": "¿Cuál es el número máximo de vagones para la locomotora de carrera en la era 2?",
+    "options": ["11", "15", "19", "21"]
+},
+{
+    "id": "!qotdPT2",
+    "question": "Qual é o número máximo de vagões para a locomotiva de carreira na era 2?",
+    "options": ["11", "15", "19", "21"]
+},
+{
+    "id": "!qotdPL2",
+    "question": "Jaka jest maksymalna liczba wagonów dla lokomotywy kariery w erze 2?",
+    "options": ["11", "15", "19", "21"]
+},
+{
+    "id": "!qotdRU2",
+    "question": "Какое максимальное количество вагонов для локомотива в карьере в эре 2?",
+    "options": ["11", "15", "19", "21"]
+},
+{
+    "id": "!qotdDE2",
+    "question": "Was ist die maximale Anzahl an Wagen für die Karriere-Lokomotive in Ära 2?",
+    "options": ["11", "15", "19", "21"]
+},
+{
+    "id": "!qotdFI2",
+    "question": "Mikä on maksimimäärä vaunuja uralokomotiiville aikakaudella 2?",
+    "options": ["11", "15", "19", "21"]
+},
+{
+    "id": "!qotdEN3",
+    "question": "How many cities are there on the Classic map?",
+    "options": ["48", "50", "52", "54"]
+},
+{
+    "id": "!qotdFR3",
+    "question": "Combien de villes y a-t-il sur la carte Classique ?",
+    "options": ["48", "50", "52", "54"]
+},
+{
+    "id": "!qotdSP3",
+    "question": "¿Cuántas ciudades hay en el mapa Clásico?",
+    "options": ["48", "50", "52", "54"]
+},
+{
+    "id": "!qotdPT3",
+    "question": "Quantas cidades existem no mapa Clássico?",
+    "options": ["48", "50", "52", "54"]
+},
+{
+    "id": "!qotdPL3",
+    "question": "Ile miast jest na mapie Klasycznej?",
+    "options": ["48", "50", "52", "54"]
+},
+{
+    "id": "!qotdRU3",
+    "question": "Сколько городов на классической карте?",
+    "options": ["48", "50", "52", "54"]
+},
+{
+    "id": "!qotdDE3",
+    "question": "Wie viele Städte gibt es auf der klassischen Karte?",
+    "options": ["48", "50", "52", "54"]
+},
+{
+    "id": "!qotdFI3",
+    "question": "Kuinka monta kaupunkia on Klassinen kartta?",
+    "options": ["48", "50", "52", "54"]
+},
+{
+    "id": "!qotdEN4",
+    "question": "Excluding discounts, how much does it cost to buy a lottery ticket?",
+    "options": ["15", "20", "25", "30"]
+},
+{
+    "id": "!qotdFR4",
+    "question": "Hors réductions, combien coûte un ticket de loterie ?",
+    "options": ["15", "20", "25", "30"]
+},
+{
+    "id": "!qotdSP4",
+    "question": "Excluyendo descuentos, ¿cuánto cuesta comprar un boleto de lotería?",
+    "options": ["15", "20", "25", "30"]
+},
+{
+    "id": "!qotdPT4",
+    "question": "Excluindo descontos, quanto custa comprar um bilhete de loteria?",
+    "options": ["15", "20", "25", "30"]
+},
+{
+    "id": "!qotdPL4",
+    "question": "Bez zniżek, ile kosztuje zakup biletu na loterię?",
+    "options": ["15", "20", "25", "30"]
+},
+{
+    "id": "!qotdRU4",
+    "question": "За исключением скидок, сколько стоит купить лотерейный билет?",
+    "options": ["15", "20", "25", "30"]
+},
+{
+    "id": "!qotdDE4",
+    "question": "Abgesehen von Rabatten, wie viel kostet es, ein Lotterielos zu kaufen?",
+    "options": ["15", "20", "25", "30"]
+},
+{
+    "id": "!qotdFI4",
+    "question": "Ilman alennuksia, kuinka paljon loterialippu maksaa?",
+    "options": ["15", "20", "25", "30"]
+},
+{
+    "id": "!qotdEN5",
+    "question": "What is the reward for the 4th region on the Europe server?",
+    "options": ["50000", "60000", "70000", "80000"]
+},
+{
+    "id": "!qotdFR5",
+    "question": "Quelle est la récompense pour la 4ème région sur le serveur Europe ?",
+    "options": ["50000", "60000", "70000", "80000"]
+},
+{
+    "id": "!qotdSP5",
+    "question": "¿Cuál es la recompensa para la 4ª región en el servidor de Europa?",
+    "options": ["50000", "60000", "70000", "80000"]
+},
+{
+    "id": "!qotdPT5",
+    "question": "Qual é a recompensa pela 4ª região no servidor da Europa?",
+    "options": ["50000", "60000", "70000", "80000"]
+},
+{
+    "id": "!qotdPL5",
+    "question": "Jaka jest nagroda za 4. region na serwerze Europa?",
+    "options": ["50000", "60000", "70000", "80000"]
+},
+{
+    "id": "!qotdRU5",
+    "question": "Какова награда за 4-й регион на сервере Европы?",
+    "options": ["50000", "60000", "70000", "80000"]
+},
+{
+    "id": "!qotdDE5",
+    "question": "Was ist die Belohnung für die 4. Region auf dem Europa-Server?",
+    "options": ["50000", "60000", "70000", "80000"]
+},
+{
+    "id": "!qotdFI5",
+    "question": "Mikä on 4. alueen palkinto Euroopan palvelimella?",
+    "options": ["50000", "60000", "70000", "80000"]
+},
+{
+    "id": "!qotdEN6",
+    "question": "How many buildings are there in total in the station in era 6 (excluding Christmas market and special events)?",
+    "options": ["256", "264", "272", "280"]
+},
+{
+    "id": "!qotdFR6",
+    "question": "Combien de bâtiments y a-t-il au total dans la station à l'ère 6 (hors marché de Noël et événements spéciaux) ?",
+    "options": ["256", "264", "272", "280"]
+},
+{
+    "id": "!qotdSP6",
+    "question": "¿Cuántos edificios hay en total en la estación en la era 6 (excluyendo el mercado de Navidad y eventos especiales)?",
+    "options": ["256", "264", "272", "280"]
+},
+{
+    "id": "!qotdPT6",
+    "question": "Quantos edifícios existem no total na estação na era 6 (excluindo o mercado de Natal e eventos especiais)?",
+    "options": ["256", "264", "272", "280"]
+},
+{
+    "id": "!qotdPL6",
+    "question": "Ile budynków jest łącznie na stacji w erze 6 (z wyjątkiem rynku świątecznego i specjalnych wydarzeń)?",
+    "options": ["256", "264", "272", "280"]
+},
+{
+    "id": "!qotdRU6",
+    "question": "Сколько всего зданий на станции в эре 6 (кроме рождественского рынка и специальных событий)?",
+    "options": ["256", "264", "272", "280"]
+},
+{
+    "id": "!qotdDE6",
+    "question": "Wie viele Gebäude gibt es insgesamt auf der Station in Ära 6 (außer Weihnachtsmarkt und Sonderveranstaltungen)?",
+    "options": ["256", "264", "272", "280"]
+},
+{
+    "id": "!qotdFI6",
+    "question": "Kuinka monta rakennusta on yhteensä asemalla aikakaudella 6 (ilman joulumarkkinoita ja erikoistapahtumia)?",
+    "options": ["256", "264", "272", "280"]
+},
+{
+    "id": "!qotdEN7",
+    "question": "What is the name of the PAX bonus locomotive available only in the final phase?",
+    "options": ["Titan", "Venus", "Aurora", "Valkyrie"]
+},
+{
+    "id": "!qotdFR7",
+    "question": "Quel est le nom de la locomotive bonus PAX disponible uniquement dans la phase finale ?",
+    "options": ["Titan", "Venus", "Aurora", "Valkyrie"]
+},
+{
+    "id": "!qotdSP7",
+    "question": "¿Cómo se llama la locomotora bonus PAX disponible solo en la fase final?",
+    "options": ["Titan", "Venus", "Aurora", "Valkyrie"]
+},
+{
+    "id": "!qotdPT7",
+    "question": "Qual é o nome da locomotiva bônus PAX disponível apenas na fase final?",
+    "options": ["Titan", "Venus", "Aurora", "Valkyrie"]
+},
+{
+    "id": "!qotdPL7",
+    "question": "Jak nazywa się bonusowa lokomotywa PAX dostępna tylko w ostatniej fazie?",
+    "options": ["Titan", "Venus", "Aurora", "Valkyrie"]
+},
+{
+    "id": "!qotdRU7",
+    "question": "Как называется бонусная локомотива PAX, доступная только на финальной фазе?",
+    "options": ["Titan", "Venus", "Aurora", "Valkyrie"]
+},
+{
+    "id": "!qotdDE7",
+    "question": "Wie heißt die PAX-Bonus-Lokomotive, die nur in der letzten Phase verfügbar ist?",
+    "options": ["Titan", "Venus", "Aurora", "Valkyrie"]
+},
+{
+    "id": "!qotdFI7",
+    "question": "Mikä on PAX-bonus-lokomotiivin nimi, joka on saatavilla vain viimeisessä vaiheessa?",
+    "options": ["Titan", "Venus", "Aurora", "Valkyrie"]
+},
+{
+    "id": "!qotdEN8",
+    "question": "How many PPs does medal 168 earn for upgrading all buildings to the maximum level?",
+    "options": ["250", "500", "750", "1000"]
+},
+{
+    "id": "!qotdFR8",
+    "question": "Combien de PPs la médaille 168 rapporte-t-elle pour améliorer tous les bâtiments au niveau maximum ?",
+    "options": ["250", "500", "750", "1000"]
+},
+{
+    "id": "!qotdSP8",
+    "question": "¿Cuántos PPs otorga la medalla 168 por mejorar todos los edificios al nivel máximo?",
+    "options": ["250", "500", "750", "1000"]
+},
+{
+    "id": "!qotdPT8",
+    "question": "Quantos PPs a medalha 168 ganha por melhorar todos os edifícios ao nível máximo?",
+    "options": ["250", "500", "750", "1000"]
+},
+{
+    "id": "!qotdPL8",
+    "question": "Ile PPs daje medal 168 za ulepszenie wszystkich budynków do maksymalnego poziomu?",
+    "options": ["250", "500", "750", "1000"]
+},
+{
+    "id": "!qotdRU8",
+    "question": "Сколько PPs дает медаль 168 за улучшение всех зданий до максимального уровня?",
+    "options": ["250", "500", "750", "1000"]
+},
+{
+    "id": "!qotdDE8",
+    "question": "Wie viele PPs bringt Medaille 168 für das Aufrüsten aller Gebäude auf das maximale Level?",
+    "options": ["250", "500", "750", "1000"]
+},
+{
+    "id": "!qotdFI8",
+    "question": "Kuinka monta PPs medaali 168 tuo kaikille rakennuksille maksimitasolle?",
+    "options": ["250", "500", "750", "1000"]
+},
+{
+    "id": "!qotdEN9",
+    "question": "What is the gross purchase cost of the Olympes?",
+    "options": ["5000", "7000", "10000", "12500"]
+},
+{
+    "id": "!qotdFR9",
+    "question": "Quel est le coût brut d'achat des Olympes ?",
+    "options": ["5000", "7000", "10000", "12500"]
+},
+{
+    "id": "!qotdSP9",
+    "question": "¿Cuál es el costo bruto de compra de los Olímpicos?",
+    "options": ["5000", "7000", "10000", "12500"]
+},
+{
+    "id": "!qotdPT9",
+    "question": "Qual é o custo bruto de compra dos Olímpicos?",
+    "options": ["5000", "7000", "10000", "12500"]
+},
+{
+    "id": "!qotdPL9",
+    "question": "Jaki jest całkowity koszt zakupu Olimpów?",
+    "options": ["5000", "7000", "10000", "12500"]
+},
+{
+    "id": "!qotdRU9",
+    "question": "Какая общая стоимость покупки Олимпов?",
+    "options": ["5000", "7000", "10000", "12500"]
+},
+{
+    "id": "!qotdDE9",
+    "question": "Was ist der Brutto-Kaufpreis der Olympen?",
+    "options": ["5000", "7000", "10000", "12500"]
+},
+{
+    "id": "!qotdFI9",
+    "question": "Mikä on Olympuksen bruttokustannus ostaessa?",
+    "options": ["5000", "7000", "10000", "12500"]
+},
+{
+    "id": "!qotdEN10",
+    "question": "What is the price of an era pack?",
+    "options": ["150", "175", "200", "250"]
+},
+{
+    "id": "!qotdFR10",
+    "question": "Quel est le prix d'un pack d'ère ?",
+    "options": ["150", "175", "200", "250"]
+},
+{
+    "id": "!qotdSP10",
+    "question": "¿Cuál es el precio de un paquete de era?",
+    "options": ["150", "175", "200", "250"]
+},
+{
+    "id": "!qotdPT10",
+    "question": "Qual é o preço de um pacote de era?",
+    "options": ["150", "175", "200", "250"]
+},
+{
+    "id": "!qotdPL10",
+    "question": "Jaka jest cena pakietu ery?",
+    "options": ["150", "175", "200", "250"]
+},
+{
+    "id": "!qotdRU10",
+    "question": "Какая цена пакета эпохи?",
+    "options": ["150", "175", "200", "250"]
+},
+{
+    "id": "!qotdDE10",
+    "question": "Wie viel kostet ein Ära-Paket?",
+    "options": ["150", "175", "200", "250"]
+},
+{
+    "id": "!qotdFI10",
+    "question": "Mikä on aikakausipaketin hinta?",
+    "options": ["150", "175", "200", "250"]
+},
+{
+    "id": "!qotdEN11",
+    "question": "What reward is NOT included in the vintage pack?",
+    "options": ["5 tickets", "1 free locomotive", "1 locomotive workshop level", "1 research point recharge"]
+},
+{
+    "id": "!qotdFR11",
+    "question": "Quelle récompense n'est PAS incluse dans le pack vintage ?",
+    "options": ["5 tickets", "1 locomotive gratuite", "1 niveau de l'atelier de locomotives", "1 recharge de point de recherche"]
+},
+{
+    "id": "!qotdSP11",
+    "question": "¿Qué recompensa NO está incluida en el paquete vintage?",
+    "options": ["5 billetes", "1 locomotora gratis", "1 nivel de taller de locomotoras", "1 recarga de puntos de investigación"]
+},
+{
+    "id": "!qotdPT11",
+    "question": "Qual recompensa NÃO está incluída no pacote vintage?",
+    "options": ["5 ingressos", "1 locomotiva gratuita", "1 nível de oficina de locomotivas", "1 recarga de ponto de pesquisa"]
+},
+{
+    "id": "!qotdPL11",
+    "question": "Jaka nagroda NIE jest zawarta w pakiecie vintage?",
+    "options": ["5 biletów", "1 darmowa lokomotywa", "1 poziom warsztatu lokomotyw", "1 doładowanie punktów badawczych"]
+},
+{
+    "id": "!qotdRU11",
+    "question": "Какая награда НЕ входит в винтажный пакет?",
+    "options": ["5 билетов", "1 бесплатная локомотива", "1 уровень локомотивного цеха", "1 пополнение очков исследования"]
+},
+{
+    "id": "!qotdDE11",
+    "question": "Welche Belohnung ist NICHT im Vintage-Paket enthalten?",
+    "options": ["5 Tickets", "1 kostenlose Lokomotive", "1 Werkstattlevel für Lokomotiven", "1 Forschungspunkt-Aufladung"]
+},
+{
+    "id": "!qotdFI11",
+    "question": "Mikä palkinto EI ole vintage-paketissa?",
+    "options": ["5 lippua", "1 ilmainen veturi", "1 veturiverkoston taso", "1 tutkimuspisteiden lataus"]
+},
+{
+    "id": "!qotdEN12",
+    "question": "What is the price (in gold) of the power bonus?",
+    "options": ["25", "29", "35", "39"]
+},
+{
+    "id": "!qotdFR12",
+    "question": "Quel est le prix (en or) du bonus de puissance ?",
+    "options": ["25", "29", "35", "39"]
+},
+{
+    "id": "!qotdSP12",
+    "question": "¿Cuál es el precio (en oro) del bono de poder?",
+    "options": ["25", "29", "35", "39"]
+},
+{
+    "id": "!qotdPT12",
+    "question": "Qual é o preço (em ouro) do bônus de poder?",
+    "options": ["25", "29", "35", "39"]
+},
+{
+    "id": "!qotdPL12",
+    "question": "Jaka jest cena (w złocie) bonusu mocy?",
+    "options": ["25", "29", "35", "39"]
+},
+{
+    "id": "!qotdRU12",
+    "question": "Какая цена (в золоте) бонуса силы?",
+    "options": ["25", "29", "35", "39"]
+},
+{
+    "id": "!qotdDE12",
+    "question": "Wie viel kostet (in Gold) der Power-Bonus?",
+    "options": ["25", "29", "35", "39"]
+},
+{
+    "id": "!qotdFI12",
+    "question": "Mikä on voimapalkkion hinta (kultana)?",
+    "options": ["25", "29", "35", "39"]
+},
+{
+    "id": "!qotdEN13",
+    "question": "In which region is the city of Prague?",
+    "options": ["Center", "North-East", "South-South-East", "South"]
+},
+{
+    "id": "!qotdFR13",
+    "question": "Dans quelle région se trouve la ville de Prague ?",
+    "options": ["Centre", "Nord-Est", "Sud-Sud-Est", "Sud"]
+},
+{
+    "id": "!qotdSP13",
+    "question": "¿En qué región se encuentra la ciudad de Praga?",
+    "options": ["Centro", "Noreste", "Sur-Sureste", "Sur"]
+},
+{
+    "id": "!qotdPT13",
+    "question": "Em qual região está a cidade de Praga?",
+    "options": ["Centro", "Norte-Leste", "Sul-Sudeste", "Sul"]
+},
+{
+    "id": "!qotdPL13",
+    "question": "W której regionie znajduje się miasto Praga?",
+    "options": ["Centrum", "Północny Wschód", "Południowy Południowy Wschód", "Południe"]
+},
+{
+    "id": "!qotdRU13",
+    "question": "В каком регионе находится город Прага?",
+    "options": ["Центр", "Северо-Восток", "Юго-Юго-Восток", "Юг"]
+},
+{
+    "id": "!qotdDE13",
+    "question": "In welcher Region befindet sich die Stadt Prag?",
+    "options": ["Zentrum", "Nord-Ost", "Süd-Süd-Ost", "Süd"]
+},
+{
+    "id": "!qotdFI13",
+    "question": "Missä alueessa sijaitsee Praha?",
+    "options": ["Keskusta", "Koillis", "Lounais", "Etelä"]
+},
+{
+    "id": "!qotdEN14",
+    "question": "How many days of assistance are possible? (speed x1)",
+    "options": ["10", "15", "20", "30"]
+},
+{
+    "id": "!qotdFR14",
+    "question": "Combien de jours d'assistance sont possibles ? (vitesse x1)",
+    "options": ["10", "15", "20", "30"]
+},
+{
+    "id": "!qotdSP14",
+    "question": "¿Cuántos días de asistencia son posibles? (velocidad x1)",
+    "options": ["10", "15", "20", "30"]
+},
+{
+    "id": "!qotdPT14",
+    "question": "Quantos dias de assistência são possíveis? (velocidade x1)",
+    "options": ["10", "15", "20", "30"]
+},
+{
+    "id": "!qotdPL14",
+    "question": "Ile dni pomocy jest możliwych? (szybkość x1)",
+    "options": ["10", "15", "20", "30"]
+},
+{
+    "id": "!qotdRU14",
+    "question": "Сколько дней помощи возможно? (скорость x1)",
+    "options": ["10", "15", "20", "30"]
+},
+{
+    "id": "!qotdDE14",
+    "question": "Wie viele Tage Hilfe sind möglich? (Geschwindigkeit x1)",
+    "options": ["10", "15", "20", "30"]
+},
+{
+    "id": "!qotdFI14",
+    "question": "Kuinka monta apupäivää on mahdollista? (nopeus x1)",
+    "options": ["10", "15", "20", "30"]
+},
+{
+    "id": "!qotdEN15",
+    "question": "From which era do the packaging arrive?",
+    "options": ["2", "3", "4", "5"]
+},
+{
+    "id": "!qotdFR15",
+    "question": "Depuis quelle ère arrivent les emballages ?",
+    "options": ["2", "3", "4", "5"]
+},
+{
+    "id": "!qotdSP15",
+    "question": "¿Desde qué era llegan los empaques?",
+    "options": ["2", "3", "4", "5"]
+},
+{
+    "id": "!qotdPT15",
+    "question": "De qual era vêm os pacotes?",
+    "options": ["2", "3", "4", "5"]
+},
+{
+    "id": "!qotdPL15",
+    "question": "Z której ery pochodzą opakowania?",
+    "options": ["2", "3", "4", "5"]
+},
+{
+    "id": "!qotdRU15",
+    "question": "С какой эры приходят упаковки?",
+    "options": ["2", "3", "4", "5"]
+},
+{
+    "id": "!qotdDE15",
+    "question": "Aus welcher Ära kommen die Verpackungen?",
+    "options": ["2", "3", "4", "5"]
+},
+{
+    "id": "!qotdFI15",
+    "question": "Mistä aikakaudesta pakkaukset saapuvat?",
+    "options": ["2", "3", "4", "5"]
+},
+{
+    "id": "!qotdEN16",
+    "question": "Which bonus locomotive can be won in competitions?",
+    "options": ["Sphinx", "Ajax", "Primus", "Titan"]
+},
+{
+    "id": "!qotdFR16",
+    "question": "Quelle locomotive bonus peut être remportée lors des compétitions ?",
+    "options": ["Sphinx", "Ajax", "Primus", "Titan"]
+},
+{
+    "id": "!qotdSP16",
+    "question": "¿Qué locomotora de bono se puede ganar en las competiciones?",
+    "options": ["Esfinge", "Ajax", "Primus", "Titán"]
+},
+{
+    "id": "!qotdPT16",
+    "question": "Que locomotiva bônus pode ser ganha nas competições?",
+    "options": ["Esfinge", "Ajax", "Primus", "Titã"]
+},
+{
+    "id": "!qotdPL16",
+    "question": "Jaką lokomotywę bonusową można wygrać w zawodach?",
+    "options": ["Sfinks", "Ajax", "Primus", "Tytan"]
+},
+{
+    "id": "!qotdRU16",
+    "question": "Какую бонусную локомотиву можно выиграть на соревнованиях?",
+    "options": ["Сфинкс", "Аякс", "Примус", "Титан"]
+},
+{
+    "id": "!qotdDE16",
+    "question": "Welche Bonuslokomotive kann in Wettbewerben gewonnen werden?",
+    "options": ["Sphinx", "Ajax", "Primus", "Titan"]
+},
+{
+    "id": "!qotdFI16",
+    "question": "Mikä bonusveturi voidaan voittaa kilpailuissa?",
+    "options": ["Sfinksi", "Ajax", "Primus", "Titan"]
+},
+{
+    "id": "!qotdEN17",
+    "question": "After how many consecutive days offline are you registered as an inactive player in a city?",
+    "options": ["1", "3", "5", "7"]
+},
+{
+    "id": "!qotdFR17",
+    "question": "Après combien de jours consécutifs hors ligne êtes-vous inscrit comme joueur inactif dans une ville ?",
+    "options": ["1", "3", "5", "7"]
+},
+{
+    "id": "!qotdSP17",
+    "question": "¿Después de cuántos días consecutivos fuera de línea eres registrado como jugador inactivo en una ciudad?",
+    "options": ["1", "3", "5", "7"]
+},
+{
+    "id": "!qotdPT17",
+    "question": "Após quantos dias consecutivos offline você é registrado como jogador inativo em uma cidade?",
+    "options": ["1", "3", "5", "7"]
+},
+{
+    "id": "!qotdPL17",
+    "question": "Po ilu kolejnych dniach offline zostaniesz zarejestrowany jako nieaktywny gracz w mieście?",
+    "options": ["1", "3", "5", "7"]
+},
+{
+    "id": "!qotdRU17",
+    "question": "После скольких последовательных дней оффлайн вы будете зарегистрированы как неактивный игрок в городе?",
+    "options": ["1", "3", "5", "7"]
+},
+{
+    "id": "!qotdDE17",
+    "question": "Nach wie vielen aufeinander folgenden Tagen offline wirst du als inaktiver Spieler in einer Stadt registriert?",
+    "options": ["1", "3", "5", "7"]
+},
+{
+    "id": "!qotdFI17",
+    "question": "Kuinka monen peräkkäisen päivän offline-tilassa olet rekisteröitynyt inaktiiviseksi pelaajaksi kaupungissa?",
+    "options": ["1", "3", "5", "7"]
+},
+{
+    "id": "!qotdEN18",
+    "question": "How many consecutive hours must the player you are supporting be offline?",
+    "options": ["6", "12", "14", "16"]
+},
+{
+    "id": "!qotdFR18",
+    "question": "Combien d'heures consécutives le joueur que vous soutenez doit-il être hors ligne ?",
+    "options": ["6", "12", "14", "16"]
+},
+{
+    "id": "!qotdSP18",
+    "question": "¿Cuántas horas consecutivas debe estar fuera de línea el jugador que estás apoyando?",
+    "options": ["6", "12", "14", "16"]
+},
+{
+    "id": "!qotdPT18",
+    "question": "Quantas horas consecutivas o jogador que você está apoiando deve ficar offline?",
+    "options": ["6", "12", "14", "16"]
+},
+{
+    "id": "!qotdPL18",
+    "question": "Ile godzin z rzędu gracz, którego wspierasz, musi być offline?",
+    "options": ["6", "12", "14", "16"]
+},
+{
+    "id": "!qotdRU18",
+    "question": "Сколько последовательных часов игрок, которого вы поддерживаете, должен быть оффлайн?",
+    "options": ["6", "12", "14", "16"]
+},
+{
+    "id": "!qotdDE18",
+    "question": "Wie viele aufeinanderfolgende Stunden muss der Spieler, den du unterstützt, offline sein?",
+    "options": ["6", "12", "14", "16"]
+},
+{
+    "id": "!qotdFI18",
+    "question": "Kuinka monta peräkkäistä tuntia pelaajan, jota tuet, on oltava offline-tilassa?",
+    "options": ["6", "12", "14", "16"]
+},
+{
+    "id": "!qotdEN19",
+    "question": "How much does it cost to register in advance for a competition?",
+    "options": ["10", "15", "20", "25"]
+},
+{
+    "id": "!qotdFR19",
+    "question": "Combien coûte l'inscription à l'avance pour une compétition ?",
+    "options": ["10", "15", "20", "25"]
+},
+{
+    "id": "!qotdSP19",
+    "question": "¿Cuánto cuesta registrarse por adelantado para una competencia?",
+    "options": ["10", "15", "20", "25"]
+},
+{
+    "id": "!qotdPT19",
+    "question": "Quanto custa registrar-se antecipadamente para uma competição?",
+    "options": ["10", "15", "20", "25"]
+},
+{
+    "id": "!qotdPL19",
+    "question": "Ile kosztuje wcześniejsze zapisanie się do konkursu?",
+    "options": ["10", "15", "20", "25"]
+},
+{
+    "id": "!qotdRU19",
+    "question": "Сколько стоит регистрация на конкурс заранее?",
+    "options": ["10", "15", "20", "25"]
+},
+{
+    "id": "!qotdDE19",
+    "question": "Wie viel kostet die Vorabregistrierung für einen Wettbewerb?",
+    "options": ["10", "15", "20", "25"]
+},
+{
+    "id": "!qotdFI19",
+    "question": "Paljonko maksaa rekisteröityä etukäteen kilpailuun?",
+    "options": ["10", "15", "20", "25"]
+},
+{
+    "id": "!qotdEN20",
+    "question": "What is the last event server to take place in 2024?",
+    "options": ["Platform X", "Perfect Paradise", "Masters", "Server Birthday"]
+},
+{
+    "id": "!qotdFR20",
+    "question": "Quel est le dernier serveur d'événements à avoir lieu en 2024 ?",
+    "options": ["Platform X", "Perfect Paradise", "Masters", "Server Birthday"]
+},
+{
+    "id": "!qotdSP20",
+    "question": "¿Cuál es el último servidor de eventos que tendrá lugar en 2024?",
+    "options": ["Platform X", "Perfect Paradise", "Masters", "Server Birthday"]
+},
+{
+    "id": "!qotdPT20",
+    "question": "Qual é o último servidor de eventos que ocorrerá em 2024?",
+    "options": ["Platform X", "Perfect Paradise", "Masters", "Server Birthday"]
+},
+{
+    "id": "!qotdPL20",
+    "question": "Jaki jest ostatni serwer wydarzeń, który odbędzie się w 2024 roku?",
+    "options": ["Platform X", "Perfect Paradise", "Masters", "Server Birthday"]
+},
+{
+    "id": "!qotdRU20",
+    "question": "Какой последний сервер событий состоится в 2024 году?",
+    "options": ["Platform X", "Perfect Paradise", "Masters", "Server Birthday"]
+},
+{
+    "id": "!qotdDE20",
+    "question": "Welcher ist der letzte Event-Server, der 2024 stattfinden wird?",
+    "options": ["Platform X", "Perfect Paradise", "Masters", "Server Birthday"]
+},
+{
+    "id": "!qotdFI20",
+    "question": "Mikä on viimeinen tapahtumapalvelin, joka pidetään vuonna 2024?",
+    "options": ["Platform X", "Perfect Paradise", "Masters", "Server Birthday"]
+},
+{
+    "id": "!qotdEN21",
+    "question": "For the city to reach level 30, what is the minimum level of the landmark?",
+    "options": ["6", "7", "8", "10"]
+},
+{
+    "id": "!qotdFR21",
+    "question": "Pour qu'une ville atteigne le niveau 30, quel est le niveau minimum du monument ?",
+    "options": ["6", "7", "8", "10"]
+},
+{
+    "id": "!qotdSP21",
+    "question": "Para que una ciudad alcance el nivel 30, ¿cuál es el nivel mínimo del monumento?",
+    "options": ["6", "7", "8", "10"]
+},
+{
+    "id": "!qotdPT21",
+    "question": "Para que uma cidade atinja o nível 30, qual é o nível mínimo do marco?",
+    "options": ["6", "7", "8", "10"]
+},
+{
+    "id": "!qotdPL21",
+    "question": "Aby miasto osiągnęło poziom 30, jaki jest minimalny poziom punktu orientacyjnego?",
+    "options": ["6", "7", "8", "10"]
+},
+{
+    "id": "!qotdRU21",
+    "question": "Чтобы город достиг уровня 30, какой минимальный уровень ориентира?",
+    "options": ["6", "7", "8", "10"]
+},
+{
+    "id": "!qotdDE21",
+    "question": "Um die Stadt auf Stufe 30 zu bringen, welches ist das minimale Level des Wahrzeichens?",
+    "options": ["6", "7", "8", "10"]
+},
+{
+    "id": "!qotdFI21",
+    "question": "Jotta kaupunki saavuttaisi tason 30, mikä on maamerkin vähimmäistaso?",
+    "options": ["6", "7", "8", "10"]
+},
+{
+    "id": "!qotdEN22",
+    "question": "How many ports are there on the Europe game worlds?",
+    "options": ["5", "7", "10", "11"]
+},
+{
+    "id": "!qotdFR22",
+    "question": "Combien de ports y a-t-il sur les mondes du jeu Europe ?",
+    "options": ["5", "7", "10", "11"]
+},
+{
+    "id": "!qotdSP22",
+    "question": "¿Cuántos puertos hay en los mundos del juego Europa?",
+    "options": ["5", "7", "10", "11"]
+},
+{
+    "id": "!qotdPT22",
+    "question": "Quantos portos existem nos mundos de jogo da Europa?",
+    "options": ["5", "7", "10", "11"]
+},
+{
+    "id": "!qotdPL22",
+    "question": "Ile portów znajduje się na światach gry Europa?",
+    "options": ["5", "7", "10", "11"]
+},
+{
+    "id": "!qotdRU22",
+    "question": "Сколько портов на игровых мирах Европы?",
+    "options": ["5", "7", "10", "11"]
+},
+{
+    "id": "!qotdDE22",
+    "question": "Wie viele Häfen gibt es auf den Europa-Spielwelten?",
+    "options": ["5", "7", "10", "11"]
+},
+{
+    "id": "!qotdFI22",
+    "question": "Kuinka monta satamaa on Euroopan pelimaailmoissa?",
+    "options": ["5", "7", "10", "11"]
+},
+{
+    "id": "!qotdEN23",
+    "question": "How many warehouses are there on the American Dream game worlds?",
+    "options": ["5", "7", "10", "11"]
+},
+{
+    "id": "!qotdFR23",
+    "question": "Combien d'entrepôts y a-t-il sur les mondes du jeu American Dream ?",
+    "options": ["5", "7", "10", "11"]
+},
+{
+    "id": "!qotdSP23",
+    "question": "¿Cuántos almacenes hay en los mundos del juego American Dream?",
+    "options": ["5", "7", "10", "11"]
+},
+{
+    "id": "!qotdPT23",
+    "question": "Quantos armazéns existem nos mundos de jogo American Dream?",
+    "options": ["5", "7", "10", "11"]
+},
+{
+    "id": "!qotdPL23",
+    "question": "Ile magazynów znajduje się na światach gry American Dream?",
+    "options": ["5", "7", "10", "11"]
+},
+{
+    "id": "!qotdRU23",
+    "question": "Сколько складов на игровых мирах American Dream?",
+    "options": ["5", "7", "10", "11"]
+},
+{
+    "id": "!qotdDE23",
+    "question": "Wie viele Lagerhäuser gibt es auf den American Dream-Spielwelten?",
+    "options": ["5", "7", "10", "11"]
+},
+{
+    "id": "!qotdFI23",
+    "question": "Kuinka monta varastoa on American Dream pelimaailmoissa?",
+    "options": ["5", "7", "10", "11"]
+},
+{
+    "id": "!qotdEN24",
+    "question": "How many special routes are there on the Europe game worlds?",
+    "options": ["22", "31", "39", "44"]
+},
+{
+    "id": "!qotdFR24",
+    "question": "Combien de routes spéciales y a-t-il sur les mondes du jeu Europe ?",
+    "options": ["22", "31", "39", "44"]
+},
+{
+    "id": "!qotdSP24",
+    "question": "¿Cuántas rutas especiales hay en los mundos del juego Europa?",
+    "options": ["22", "31", "39", "44"]
+},
+{
+    "id": "!qotdPT24",
+    "question": "Quantas rotas especiais existem nos mundos de jogo Europa?",
+    "options": ["22", "31", "39", "44"]
+},
+{
+    "id": "!qotdPL24",
+    "question": "Ile specjalnych tras jest w światach gry Europa?",
+    "options": ["22", "31", "39", "44"]
+},
+{
+    "id": "!qotdRU24",
+    "question": "Сколько специальных маршрутов есть на игровых мирах Европа?",
+    "options": ["22", "31", "39", "44"]
+},
+{
+    "id": "!qotdDE24",
+    "question": "Wie viele Sonderrouten gibt es in den Europa-Spielwelten?",
+    "options": ["22", "31", "39", "44"]
+},
+{
+    "id": "!qotdFI24",
+    "question": "Kuinka monta erikoisreittiä on Euroopan pelimaailmoissa?",
+    "options": ["22", "31", "39", "44"]
+},
+{
+    "id": "!qotdEN25",
+    "question": "For the city to reach level 30, what is the minimum level of the landmark?",
+    "options": ["6", "7", "8", "10"]
+},
+{
+    "id": "!qotdFR25",
+    "question": "Pour que la ville atteigne le niveau 30, quel est le niveau minimum du monument ?",
+    "options": ["6", "7", "8", "10"]
+},
+{
+    "id": "!qotdSP25",
+    "question": "Para que la ciudad alcance el nivel 30, ¿cuál es el nivel mínimo del monumento?",
+    "options": ["6", "7", "8", "10"]
+},
+{
+    "id": "!qotdPT25",
+    "question": "Para que a cidade atinja o nível 30, qual é o nível mínimo do marco?",
+    "options": ["6", "7", "8", "10"]
+},
+{
+    "id": "!qotdPL25",
+    "question": "Aby miasto osiągnęło poziom 30, jaki jest minimalny poziom zabytku?",
+    "options": ["6", "7", "8", "10"]
+},
+{
+    "id": "!qotdRU25",
+    "question": "Чтобы город достиг уровня 30, какой минимальный уровень памятника?",
+    "options": ["6", "7", "8", "10"]
+},
+{
+    "id": "!qotdDE25",
+    "question": "Damit die Stadt Level 30 erreicht, welches ist das Mindestlevel des Wahrzeichens?",
+    "options": ["6", "7", "8", "10"]
+},
+{
+    "id": "!qotdFI25",
+    "question": "Jotta kaupunki saavuttaisi tason 30, mikä on maamerkin vähimmäistaso?",
+    "options": ["6", "7", "8", "10"]
+}
+]

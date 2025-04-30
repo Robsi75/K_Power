@@ -1,0 +1,6 @@
+[2025-02-17T11:44:45.149Z] Connexion réussie avec le token
+[2025-02-17T11:44:45.260Z] Bot connecté et prêt!
+[2025-02-17T11:47:50.475Z] Connexion réussie avec le token
+[2025-02-17T11:47:50.635Z] Bot connecté et prêt!
+[2025-02-17T11:47:50.637Z] Statut changé en inactif
+[2025-02-17T11:47:50.641Z] Activité définie : inactif
