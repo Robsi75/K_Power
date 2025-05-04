@@ -1,7 +1,7 @@
 {
   "name": "bot-discord",
   "version": "1.0.0",
-  "main": "discord.js",  // Assure-toi que le fichier existe
+  "main": "discord.js",  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
